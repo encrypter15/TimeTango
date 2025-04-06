@@ -1,7 +1,7 @@
 # TimeTango
 
 ## Description
-Write a Python program named TimeTango that logs time spent on freelance projects, calculates billable hours, and generates client reports
+TimeTango that logs time spent on freelance projects, calculates billable hours, and generates client reports
 
 ## Author
 Encrypter15
